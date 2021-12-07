@@ -1,0 +1,60 @@
+.row-indent-title{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.row-indent-info{
+    background-color: wheat;
+    padding: 20px;
+    border-radius: 10px;
+}
+.col-title{
+    font-size: 32px;
+    text-align: center;
+}
+.col-info{
+    font-size: 24px;
+    text-align: center;
+}
+.hotel-title{
+    padding: 20px;
+}
+.row-card-hotel{
+    background-color: wheat;
+    padding: 20px;
+}
+.row-indent-buy{
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+.col-buy{
+    font-size: 24px;
+    text-align: center;
+}
+.col-btn-rewiev{
+    text-align: right;
+    padding-bottom: 50px;
+}
+.review-title{
+    padding-left: 50px;
+}
+.card-review{
+    background-color: #FDFCF2;
+    /* border: 1px solid grey; */
+    border-radius: 30px;
+
+}
+.card-indent-rewiev{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.btn{
+    position: relative;
+    background-color: #FCFF6D;
+    color: black;
+    border-color: black;
+    border-radius: 20px;
+    width: 150px;
+}
+

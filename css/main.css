@@ -4,54 +4,46 @@
     box-sizing: border-box;
     padding-top: 50px;
   }
-  .carousel {
   
+.carousel {
     height: 400px !important;
     width: 40%;
     display: inline-block;
     vertical-align: middle;
   }
   
-  .carousel1{
+.carousel1{
     height: 400px !important;
     width: 40%; 
     display: inline-block;
     vertical-align: middle;
   }
   
-  .carousel-inner img {
+.carousel-inner img {
     height: 400px !important;
     margin: 0 auto;
   }
-  .container{
-      padding: 50px;
-      margin:0 auto;
   
+.discount{
+    padding-top: 100px;
   }
-  
-  .discount{
-      padding-top: 100px;
-  }
-  .card{
-      margin: 0 auto;
-      margin-top: 10px;
-  }
-  
-  .card-link {
+
+.card-link {
   text-decoration: none;
   height: 100%;
   color:black;
   }
-  .btn{
-      position: relative;
-      left: 50%;
-      transform: translate(-50%, 0);
-      background-color: #FCFF6D;
-      color: black;
-      border-color: black;
-  }
-  
-  .row{
+
+.row{
       background-color: wheat;
       padding: 20px;
   }
+
+  .btn{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background-color: #FCFF6D;
+    color: black;
+    border-color: black;
+} 
