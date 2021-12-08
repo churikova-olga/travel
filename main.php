@@ -171,8 +171,9 @@ include "template/header.php";
     </div>
     <div class="col-md-8">
       <div class="card-body">
-      <h5 class="card-title">Турция</h5>
-        <p class="card-text">Только на этой неделе приобретите тур в Турцию, проведите незабываемые 5 дней за 49885 руб.</p>
+      <h5 class="card-title">Египет</h5>
+        <p class="card-text">Только на этой неделе приобретите тур в Египет, проведите незабываемые 5 дней за 49885 руб.</p>
+        <p class="card-text">4 звездочный отель. Все включено.</p>
       </div>
     </div>
   </div>
